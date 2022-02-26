@@ -2,7 +2,7 @@
 Atividade da Aula remota de Versionamento, Turma 5.
 .
 .
-git config user.name "Felipe"
+git config user.name "Elfpe"
 .
 .
 .
